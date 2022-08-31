@@ -29,7 +29,7 @@
     "request-promise": "^4.2.1",
     "soundex": "^0.2.1",
     "yelp-fusion": "^1.0.3",
-    "moment-timezone": "^0.5.13",
+    "moment-timezone": "^0.5.35",
     "pluralize": "^5.0.0"
   },
   "devDependencies": {
